@@ -1,0 +1,19 @@
+.link{
+	color:white;
+	text-decoration: none;
+}
+
+.privateLinks{
+	display: flex;
+	align-items: stretch;
+	justify-content: space-around;
+	flex-grow: 1;
+}
+
+
+.logo{
+	flex-grow: 0.5;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

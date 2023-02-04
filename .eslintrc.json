@@ -1,3 +1,9 @@
 {
-  "extends": "next"
+  "extends": "next",
+   "rules": {
+    "semi": [2, "never"],
+    "indent": ["error", 2],
+    "quotes": ["error", "single"],
+    "no-console":["error","off"]
+   }
 }
